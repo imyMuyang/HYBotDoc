@@ -33,9 +33,12 @@ HYBot 并不仅限于 QQ，下面列表是我们支持的协议：
 ## 后续实现功能
 
 - [ ] 插件权限申请（类似酷Q）
-- [ ] 官方插件管理器（与插件授权 API 互联的通道）imyMuyang@pluginCenter.HY.js
+- [ ] 官方插件管理器（与插件授权 API 互联的通道）
 - [ ] Plugin Config & Database API
 - [ ] 补充完整 API、事件与文档
 - [ ] 更安全的 API 授权调用
 - [ ] 同协议多 Bot 部署
 
+---
+
+准备好了？那我们就 [开始](/getStarted?id=%e5%bf%ab%e9%80%9f%e4%b8%8a%e6%89%8b) 吧！
